@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RockTechie (aka Peter) 
-- 👀 I’m interested in all things to do with computers, applications, IT in general.
-- 🌱 I’m currently learning HTML, CSS, Javascript as well as, Security+, Network+, Linux and a range of other interests outside of IT.
-- I'm new to using GitHub Repositories, but have used many different pieces of code to benefit my projects, 
+- 👋 Hi, i'm Peter Rutherford (aka RockTechie) 
+- 👀 I’m interested in all things to do with computers, applications, web security and web development.
+- 🌱 I’m currently studing HTML, CSS, Javascript. 
+- I'm new to using GitHub Repositories 2022, but have used many different pieces of code to benefit my projects, such as ADSL and Weather station using. 
 - and I personally thank all those who take the time to create, and share their projects, and expertise to others like myself. Thank You ❤️ 
 
 <!---
